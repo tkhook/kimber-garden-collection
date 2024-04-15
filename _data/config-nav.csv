@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Plant Types,/subjects.html
+Plant Types(Subjects),/subjects.html
 Locations,/locations.html
 Timeline,/timeline.html
 Data,/data.html
