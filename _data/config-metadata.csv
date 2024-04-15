@@ -1,15 +1,23 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+title,Title,,
+creator,Creator,,
+date,Date Created,,
+description,Description,,
+subject,Subjects,true,
+location,Location,,
+latitude,Latitude,,
+longitude,Longitude,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Type,,
+format,Format,,
+rights,Rights,,
 rightsstatement,Rights Statement,,true
+plant_type,Plant Type,true,
+light,Light,,
+size,Size,,
+color,Color,,
+bloom_time,Bloom Time,,
+genus_name,Genus Name,,
+hardiness_zone,Hardiness Zone,,
+filesize,File Size,,
