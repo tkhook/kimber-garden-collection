@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This digital collection features perennials, roses, annuals, herbs, and tomatoes that thrive in my Zone 5 garden in central Iowa where horridly hot summers and frigid winters create a challenging climate for plants. All the featured plants were selected to complement the style of my 1885 Victorian home. The photos were taken by me between 2017 and 2023. I own the copyright.
+This digital collection features perennials, roses, annuals, herbs, and tomatoes that thrive in my Zone 5 garden in central Iowa where sweltering summers and frigid winters create a challenging climate for plants. All the featured plants were selected to complement the style of my 1885 Victorian home. The photos were taken by me between 2017 and 2023. I own the copyright.
 
 Kimber Mitchell is a plant enthusiast, garden writer, and former garden magazine editor who loves to restore her landscape to its former Victorian splendor with roses, edibles, and other cottage-style growers that evoke a bygone era.
 
