@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Kimber Garden Collection 
+title: Ashton House Gardens 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Kimber Garden Collection
+tagline: Easy-to-Grow Plants for a Zone 5 Landscape
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This digital collection features perennials, roses, annuals, herbs, and tomatoes that thrive in my Zone 5 garden in central Iowa where horridly hot summers and frigid winters create a challenging climate for plants. To explore one of the five categories, click on Plant Types above or to see the entire collection, click Browse."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Kimber
 
