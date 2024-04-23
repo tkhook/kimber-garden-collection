@@ -13,6 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+<img class="img-fluid" src="/kimber-garden-collection/objects/arborgardenoverall.JPG" alt="GardenOverall">
 
 This digital collection features perennials, roses, annuals, herbs, and tomatoes that thrive in my Zone 5 garden in central Iowa where sweltering summers and frigid winters create a challenging climate for plants. All the featured plants were selected to complement the style of my 1885 Victorian home. The photos were taken by me between 2017 and 2023. I own the copyright.
 
