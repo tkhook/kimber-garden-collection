@@ -12,7 +12,7 @@ credits: true
 <img class="img-fluid" src="/kimber-garden-collection/objects/arborgardenoverall.JPG" alt="GardenOverall">
 
 <figure class="image">
-  <img src="/kimber-garden-collection/objects/arborgardenoverall.JPG" width="75" />
+  <img src="/kimber-garden-collection/objects/arborgardenoverall.JPG" width="576" />
   <figcaption>Arbor Garden photographed for Country Gardens magazine</figcaption>
 </figure>
 
