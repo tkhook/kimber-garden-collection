@@ -15,6 +15,7 @@ This digital collection features perennials, roses, annuals, herbs, and tomatoes
 
 ## About the Creator
 <img class="img-fluid" src="/kimber-garden-collection/objects/KimberinGarden.JPG" alt="KimberinGarden">
+<br>
 Kimber Mitchell is a plant enthusiast, garden writer, and former garden magazine editor who loves to restore her landscape to its former Victorian splendor with roses, edibles, and other cottage-style growers that evoke a bygone era.
 
 
